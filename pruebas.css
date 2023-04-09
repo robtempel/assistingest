@@ -1,11 +1,11 @@
  @font-face {
     font-family: "myriad";
-    src: url('../assets/fonts/myriadpro-bold.otf');
+    src: url('myriadpro-bold.otf');
 }
 
 @font-face {
     font-family: "avenirheavy";
-    src: url('../assets/fonts/Avenir Heavy.ttf');
+    src: url('Avenir Heavy.ttf');
 }
 
 /* width */
