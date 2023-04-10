@@ -1,11 +1,11 @@
  @font-face {
     font-family: "myriad";
-    src: url('myriadpro-bold.otf');
+    src: url('../assets/fonts/myriadpro-bold.otf');
 }
 
 @font-face {
     font-family: "avenirheavy";
-    src: url('../assets/fonts/Avenir_Heavy.ttf');
+    src: url('../assets/fonts/Avenir Heavy.ttf');
 }
 
 /* width */
@@ -36,7 +36,7 @@
 }
 
 body{
-    font-family: 'avenirheavy';
+    font-family: 'myriad';
     overflow-y: hidden;
     overflow-x: hidden;
     min-height: 500px;
